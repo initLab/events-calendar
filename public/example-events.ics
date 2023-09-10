@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wp-events-plugin.com//6.4.5.1//EN
+TZID:Europe/Sofia
+X-WR-TIMEZONE:Europe/Sofia
+BEGIN:VEVENT
+UID:3858@initlab.org
+DTSTART;TZID=Europe/Sofia:20230911T190000
+DTEND;TZID=Europe/Sofia:20230911T210000
+DTSTAMP:20230607T073608Z
+URL:https://initlab.org/events/open-fest-core-team-meetup-2023-09-11/
+SUMMARY:Open Fest core team meetup
+DESCRIPTION:TBA
+CATEGORIES:Среща на общност
+LOCATION:init Lab - голямата зала\, ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria;X-APPLE-RADIUS=100;X-TITLE=init Lab - г
+ олямата зала:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:3890@initlab.org
+DTSTART;TZID=Europe/Sofia:20230912T190000
+DTEND;TZID=Europe/Sofia:20230912T210000
+DTSTAMP:20230907T100028Z
+URL:https://initlab.org/events/%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d1%82%
+ d0%b5%d0%bb%d0%b5%d0%bd-%d1%81%d1%8a%d0%b2%d0%b5%d1%82-%d0%bd%d0%b0-%d0%bb
+ %d0%b0%d0%b1%d0%b0-3/
+SUMMARY:Управителен съвет на Лаба
+DESCRIPTION:Среща на управителния съвет на Лаб
+ а\, на която ще бъде обсъждан следните те
+ ми:\n\n 	Текущи ремонтни дейности\;\n\n 	Подо
+ брения по системата за достъп\;\n 	Осветле
+ нието около сградата\;\n 	Течовете от проз
+ орците\;\n 	Мухлясващата стена\;\n\n\n 	Отдав
+ ане на техника и оборудване на Лаба за чл
+ енове и нечленове\;\n 	Чистка на Лаба (мебе
+ ли\, старо оборудване\, и т.н.)\;\n\n 	Старите 
+ плотове\, заместени от бюра\;\n 	Дъските\, п
+ олзвани до сега за защита на стените зад 
+ плотовете\;\n 	Черната библиотека\;\n 	Стар
+ и столове\;\n\n\n 	Изготвяне годишен доклад 
+ за дейността\;\n 	Публичност на комуникац
+ ията в "us" пощенския списък и другите кан
+ али\;\n 	Промени в сайта\;\n\n 	Начална стран
+ ица\;\n 	Информация за УС\;\n 	Локация\, конт
+ акти\, как да стигнем\;\n 	Предстоящи събит
+ ия\;\n 	Правилник\;\n 	Проекти\;\n 	Членство\, 
+ дарения\, пощенски списъци\;\n\n\n 	Други\;\n
+CATEGORIES:Среща на общност
+LOCATION:init Lab - голямата зала\, ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria;X-APPLE-RADIUS=100;X-TITLE=init Lab - г
+ олямата зала:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:3859@initlab.org
+DTSTART;TZID=Europe/Sofia:20230925T190000
+DTEND;TZID=Europe/Sofia:20230925T210000
+DTSTAMP:20230607T073608Z
+URL:https://initlab.org/events/open-fest-core-team-meetup-2023-09-25/
+SUMMARY:Open Fest core team meetup
+DESCRIPTION:TBA
+CATEGORIES:Среща на общност
+LOCATION:init Lab - голямата зала\, ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria;X-APPLE-RADIUS=100;X-TITLE=init Lab - г
+ олямата зала:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:3889@initlab.org
+DTSTART;TZID=Europe/Sofia:20230926T183000
+DTEND;TZID=Europe/Sofia:20230926T203000
+DTSTAMP:20230904T093658Z
+URL:https://initlab.org/events/%d0%be%d0%b1%d1%89%d0%be-%d1%81%d1%8a%d0%b1
+ %d1%80%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bd%d0%b0-%d1%81%d0%b4%d1%80%d1%83%d0%b6
+ %d0%b5%d0%bd%d0%b8%d0%b5-%d0%b8%d0%bd%d0%b8%d1%82-%d0%bb%d0%b0%d0%b1-3/
+SUMMARY:Общо събрание на Сдружение Инит Лаб
+DESCRIPTION:Владимир Василев\, в ролята си на п
+ редседател на Сдружение Инит Лаб\, свикв
+ а Общо събрание на сдружението по инициа
+ тива на Управителния съвет\, при следния\
+ nДНЕВЕН РЕД\n1. Изменяне и допълване на Ус
+ тава (в т.ч. определяне на нов адрес на уп
+ равление\, нов адрес на официална web-стра
+ ница и нов адрес на електронна поща)\;\n2. И
+ зключване и приемане на членове\;\n3. Избо
+ р на членове на Управителния съвет\;\n4. Ра
+ зни\,\nкоето Общо събрание се определя да 
+ бъде проведено на 26.09.2023 г. от 18:30 ч. на адр
+ ес ул. Цар Асен 64А\, ет.3\, гр. София.\n\n\n\nПри
+  липса на кворум на основание чл. 27 от ЗЮЛ
+ НЦ общото събрание ще се проведе същия д
+ ен в 19:00 ч.\, на същото място и при същия дн
+ евен ред независимо от броя на присъства
+ щите.\n\nПоканват се всички членове на сдр
+ ужението да вземат участие в общото събр
+ ание.\n\nПисмените материали по дневния р
+ ед са на разположение на членовете на ад
+ реса на провеждане на събранието. При по
+ искване те се предоставят за запознаван
+ е безплатно на членовете.\n\n-=-=-=-=-=-=-=-=-=-=-=-\
+ n\nАко имате затруднение в намирането на 
+ новото ни място\, звъннете на 02 422 54 36\, за 
+ да бъдете упътени. Иначе точното ни мест
+ онахождение можете да намерите в Контак
+ ти.\n\n
+CATEGORIES:Среща на общност
+LOCATION:init Lab - голямата зала\, ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria;X-APPLE-RADIUS=100;X-TITLE=init Lab - г
+ олямата зала:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:3892@initlab.org
+DTSTART;TZID=Europe/Sofia:20230929T200000
+DTEND;TZID=Europe/Sofia:20230929T235900
+DTSTAMP:20230907T065606Z
+URL:https://initlab.org/events/%d0%b2%d0%b5%d1%87%d0%b5%d1%80-%d0%bd%d0%b0
+ -%d0%bd%d0%b0%d1%81%d1%82%d0%be%d0%bb%d0%bd%d0%b8%d1%82%d0%b5-%d0%b8%d0%b3
+ %d1%80%d0%b8-09-2023/
+SUMMARY:Вечер на настолните игри – 09/2023
+DESCRIPTION:Последният петък на септември зап
+ очваме новия сезон с обичая ни да се събе
+ рем за няколко часа в добра компания с пр
+ иятели и непознати\, играейки старите ни 
+ любими игри\, пък защо не и новите\, които 
+ сме насъбрали в последно време.\n\nВ Лаба 
+ разполагаме със следните заглавия:\n\n 	За
+ селниците на Катан (+ рицари и.. мореплава
+ тели?)\;\n 	Каркасон (+ прасета\, строители\, 
+ кули и т.н.)\;\n 	Cards Against Humanity\;\n 	Планети (за 
+ която имаме няколко допълнителни сценар
+ ия за допълнително разиграване)\;\n 	Сабот
+ ьор (или т.нар. Джуджковци)\;\n 	Румикуб\;\n 	
+ Го\;\n 	Munchkin\;\n 	Evil baby orphanage\;\n 	Resistance\;\n 	Secret Hi
+ tler\;\n 	Unstable Unicorns\;\n 	Пандемия\;\n 	Art of War\;\n 	Cas
+ tles\;\n 	What do you meme\;\n\nНаборът от игри може да
+  е още по-голям\, ако донесете някоя ваша 
+ игра. Ще играем това\, за което се намерят
+  достатъчно мераклии. Вечерите обичайно 
+ са дълги\, та ако не си водите компания и 
+ намерите веднага партньори за играта\, к
+ оято желаете\, можете да се присламчите к
+ ъм играеща група\, за да научите нова игр
+ а\, докато се сформира нова група за това\
+ , което харесвате.\n\nВ лавката на Лаба има
+ ме разядки (пуканки\, солети\, вафли и т.н.)
+ \, бира\, Клуб Мате и други безалкохолни\, 
+ но нямаме нищо против да си носите това\, 
+ което ще си хапвате и пиете – не сме заве
+ дение \nНека прекараме няколко приятни ч
+ аса без екрани пред носовете си!\n\nВход: с
+ вободен\n\nП.П. Звънете на 0885 448475\, ако не с
+ е ориентирате как да стигнете до мястото
+ .
+CATEGORIES:LAN Party
+LOCATION:init Lab - голямата зала\, ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria;X-APPLE-RADIUS=100;X-TITLE=init Lab - г
+ олямата зала:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:3860@initlab.org
+DTSTART;TZID=Europe/Sofia:20231009T190000
+DTEND;TZID=Europe/Sofia:20231009T210000
+DTSTAMP:20230607T073608Z
+URL:https://initlab.org/events/open-fest-core-team-meetup-2023-10-09/
+SUMMARY:Open Fest core team meetup
+DESCRIPTION:TBA
+CATEGORIES:Среща на общност
+LOCATION:init Lab - голямата зала\, ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria;X-APPLE-RADIUS=100;X-TITLE=init Lab - г
+ олямата зала:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:3861@initlab.org
+DTSTART;TZID=Europe/Sofia:20231023T190000
+DTEND;TZID=Europe/Sofia:20231023T210000
+DTSTAMP:20230607T073608Z
+URL:https://initlab.org/events/open-fest-core-team-meetup-2023-10-23/
+SUMMARY:Open Fest core team meetup
+DESCRIPTION:TBA
+CATEGORIES:Среща на общност
+LOCATION:init Lab - голямата зала\, ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=ул. Цар Асен 64А\
+ , ет. 3\, София\, Bulgaria;X-APPLE-RADIUS=100;X-TITLE=init Lab - г
+ олямата зала:geo:0,0
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Sofia
+X-LIC-LOCATION:Europe/Sofia
+BEGIN:DAYLIGHT
+DTSTART:20230326T040000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+END:DAYLIGHT
+END:VTIMEZONE
+END:VCALENDAR
